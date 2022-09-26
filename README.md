@@ -1,1 +1,27 @@
-Error during build, see C:\v4blender\blender\..\build_windows_Release_x64_vc17_Release\Build.log for details
+Build FAILED.
+
+C:/v4blender/blender/../lib/win64_vc15/openvdb/include\nanovdb/NanoVDB.h(623): warning #68-D: integer conversion resulted in a change of sign [C:\v4blender\build_windows_Release_x64_vc17_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:/v4blender/blender/../lib/win64_vc15/openvdb/include\nanovdb/NanoVDB.h(623): warning #68-D: integer conversion resulted in a change of sign [C:\v4blender\build_windows_Release_x64_vc17_Release\intern\cycles\kernel\cycles_kernel_optix.vcxproj]
+C:/v4blender/blender/../lib/win64_vc15/openvdb/include\nanovdb/NanoVDB.h(623): warning #68-D: integer conversion resulted in a change of sign [C:\v4blender\build_windows_Release_x64_vc17_Release\intern\cycles\kernel\cycles_kernel_optix.vcxproj]
+C:/v4blender/blender/../lib/win64_vc15/openvdb/include\nanovdb/NanoVDB.h(623): warning #68-D: integer conversion resulted in a change of sign [C:\v4blender\build_windows_Release_x64_vc17_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:/v4blender/blender/../lib/win64_vc15/openvdb/include\nanovdb/NanoVDB.h(623): warning #68-D: integer conversion resulted in a change of sign [C:\v4blender\build_windows_Release_x64_vc17_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:/v4blender/blender/../lib/win64_vc15/openvdb/include\nanovdb/NanoVDB.h(623): warning #68-D: integer conversion resulted in a change of sign [C:\v4blender\build_windows_Release_x64_vc17_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:/v4blender/blender/../lib/win64_vc15/openvdb/include\nanovdb/NanoVDB.h(623): warning #68-D: integer conversion resulted in a change of sign [C:\v4blender\build_windows_Release_x64_vc17_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:/v4blender/blender/../lib/win64_vc15/openvdb/include\nanovdb/NanoVDB.h(623): warning #68-D: integer conversion resulted in a change of sign [C:\v4blender\build_windows_Release_x64_vc17_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:/v4blender/blender/../lib/win64_vc15/openvdb/include\nanovdb/NanoVDB.h(623): warning #68-D: integer conversion resulted in a change of sign [C:\v4blender\build_windows_Release_x64_vc17_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:/v4blender/blender/../lib/win64_vc15/openvdb/include\nanovdb/NanoVDB.h(623): warning #68-D: integer conversion resulted in a change of sign [C:\v4blender\build_windows_Release_x64_vc17_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:/v4blender/blender/../lib/win64_vc15/openvdb/include\nanovdb/NanoVDB.h(623): warning #68-D: integer conversion resulted in a change of sign [C:\v4blender\build_windows_Release_x64_vc17_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:/v4blender/blender/../lib/win64_vc15/openvdb/include\nanovdb/NanoVDB.h(623): warning #68-D: integer conversion resulted in a change of sign [C:\v4blender\build_windows_Release_x64_vc17_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\v4blender\lib\win64_vc15\tbb\include\tbb/parallel_sort.h(125,1): warning C4180: qualifier applied to function type has no meaning; ignored [C:\v4blender\build_windows_Release_x64_vc17_Release\source\blender\gpencil_modifiers\bf_gpencil_modifiers.vcxproj]
+C:\v4blender\lib\win64_vc15\tbb\include\tbb/parallel_sort.h(128): warning C4180: qualifier applied to function type has no meaning; ignored [C:\v4blender\build_windows_Release_x64_vc17_Release\source\blender\gpencil_modifiers\bf_gpencil_modifiers.vcxproj]
+C:\v4blender\lib\win64_vc15\tbb\include\tbb/parallel_sort.h(128,1): warning C4180: qualifier applied to function type has no meaning; ignored [C:\v4blender\build_windows_Release_x64_vc17_Release\source\blender\gpencil_modifiers\bf_gpencil_modifiers.vcxproj]
+C:\v4blender\lib\win64_vc15\tbb\include\tbb/parallel_sort.h(102,1): warning C4180: qualifier applied to function type has no meaning; ignored [C:\v4blender\build_windows_Release_x64_vc17_Release\source\blender\gpencil_modifiers\bf_gpencil_modifiers.vcxproj]
+C:\v4blender\lib\win64_vc15\tbb\include\tbb/parallel_sort.h(106): warning C4180: qualifier applied to function type has no meaning; ignored [C:\v4blender\build_windows_Release_x64_vc17_Release\source\blender\gpencil_modifiers\bf_gpencil_modifiers.vcxproj]
+C:\v4blender\lib\win64_vc15\tbb\include\tbb/parallel_sort.h(106,1): warning C4180: qualifier applied to function type has no meaning; ignored [C:\v4blender\build_windows_Release_x64_vc17_Release\source\blender\gpencil_modifiers\bf_gpencil_modifiers.vcxproj]
+LINK : fatal error LNK1104: cannot open file 'msvcrt.lib' [C:\v4blender\build_windows_Release_x64_vc17_Release\intern\cycles\kernel\cycles_kernel_oneapi.vcxproj]
+clang++ : error : linker command failed with exit code 1104 (use -v to see invocation) [C:\v4blender\build_windows_Release_x64_vc17_Release\intern\cycles\kernel\cycles_kernel_oneapi.vcxproj]
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): error MSB8066: Custom build for 'C:\v4blender\build_windows_Release_x64_vc17_Release\CMakeFiles\9a079923408350e0956debdf9ed82598\cycles_kernel_oneapi.dll.rule;C:\v4blender\build_windows_Release_x64_vc17_Release\CMakeFiles\fe12296c4cd2c7c177e132d7619626ed\cycles_kernel_oneapi.rule;C:\v4blender\blender\intern\cycles\kernel\CMakeLists.txt' exited with code 1104. [C:\v4blender\build_windows_Release_x64_vc17_Release\intern\cycles\kernel\cycles_kernel_oneapi.vcxproj]
+    18 Warning(s)
+    3 Error(s)
+
+Time Elapsed 00:45:48.68
